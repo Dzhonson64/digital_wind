@@ -26,3 +26,6 @@
   <img src = "https://ru.wargaming.net/clans/media/clans/emblems/cl_244/200244/emblem_64x64.png" width=16px/> 
   JavaScript
 <span>
+
+
+Реализация прогноза: https://colab.research.google.com/drive/1RJt1-zShV_HELnu7lsqUyVkAP59uAIuz?usp=sharing#scrollTo=O2JIIiTYXbTu
